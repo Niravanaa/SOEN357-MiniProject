@@ -10,14 +10,14 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Site Title"
+title: "SOEN357 Mini Project"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Nirav Patel"
@@ -113,20 +113,20 @@ analytics:
 # Site Author
 author:
   name: "Nirav Patel"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "3rd Year SOEN student @ Concordia University."
+  avatar: "assets/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "3rd Year Software Engineering student @ Concordia University."
   location: "Montreal, QC, Canada"
   email:
   links:
-    - label: "niravp0703@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "My portfolio website"
-      icon: "fas fa-fw fa-link"
-      url: "https://niravanaa.github.io/"
-    - label: "GitHub"
+    - label: "Figma Wireframes"
+      icon: "fa-brands fa-figma"
+      url: "https://www.figma.com/design/GqCAvsZrbVF5FdImLd66q6/SOEN357---Prototype?node-id=0-1&t=LUeReISzlJ5woYGb-1"
+    - label: "Figma Prototype"
+      icon: "fa-brands fa-figma"
+      url: "https://www.figma.com/proto/GqCAvsZrbVF5FdImLd66q6/SOEN357---Prototype?node-id=78-1008&t=LUeReISzlJ5woYGb-1&starting-point-node-id=78%3A1065&scaling=scale-down&content-scaling=fixed"
+    - label: "GitHub Repository"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Niravanaa"
+      url: "https://github.com/Niravanaa/SOEN357-MiniProject-DesignProcess"
 
 # Site Footer
 footer:
@@ -231,6 +231,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -275,7 +276,6 @@ compress_html:
   ignore:
     envs: development
 
-# Defaults
 defaults:
   # _posts
   - scope:
@@ -285,6 +285,19 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
-      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

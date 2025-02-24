@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
-
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "tzinfo-data"
-
+gem "minimal-mistakes-jekyll"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate"
