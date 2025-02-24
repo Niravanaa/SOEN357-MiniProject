@@ -116,7 +116,6 @@ author:
   avatar: "assets/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "3rd Year Software Engineering student @ Concordia University."
   location: "Montreal, QC, Canada"
-  email:
   links:
     - label: "Figma Wireframes"
       icon: "fa-brands fa-figma"
