@@ -29,7 +29,7 @@ gallery-personas:
     alt: "Persona #3"
     title: "Persona #3: The Retired Senior"
 
-gallery-journey-maps:
+gallery-journeyMaps:
   - url: /assets/images/journey-maps/Emotion-Journey-Map.png
     image_path: /assets/images/journey-maps/Emotion-Journey-Map.png
     alt: "Emotional Journey Map"
