@@ -124,9 +124,9 @@ gallery-mockup:
     title: "Notifications, Main Menu, and Personal/Family Management Frames"
 ---
 
-In a world where our phones remind us to drink water, count our steps, and (hopefully) get enough sleep, we set out to design the ultimate Super Health Companion—a mobile app that does all that and more, without being a nagging robot.
+In a world where our phones remind us to drink water, count our steps, and (hopefully) get enough sleep, I set out to design the ultimate Super Health Companion—a mobile app that does all that and more, without being a nagging robot.
 
-This blog post takes you through our UX design adventure, from user research and personas to wireframes and interactive prototypes. We navigated the seven core principles of UI/UX, embraced the Diamond of Design, and tackled challenges like mastering Figma, sketching out user journeys, and deciphering scholarly research without getting lost in a sea of PDFs.
+This blog post takes you through my UX design adventure, from user research and personas to wireframes and interactive prototypes. I navigated the seven core principles of UI/UX, embraced the Diamond of Design, and tackled challenges like mastering Figma, sketching out user journeys, and deciphering scholarly research without getting lost in a sea of PDFs.
 
 Was it a smooth ride? Not exactly. But just like good health habits, great design is all about iteration, learning, and a little bit of trial and error. Ready to dive in? Let’s go!
 
@@ -375,7 +375,7 @@ The deliverables I produced as part of the design process included:
 
 1. **User Research**: Through interviews, surveys, and competitive analysis, I gathered valuable insights about user needs and frustrations. This research laid the groundwork for everything that followed, ensuring the app was designed to solve real problems.
 
-2. **Personas**: I created detailed personas to represent our target users, each reflecting key motivations, pain points, and even real quotes. These personas allowed me to keep the user's perspective at the forefront throughout the design process, ensuring decisions were user-centered.
+2. **Personas**: I created detailed personas to represent the target users, each reflecting key motivations, pain points, and even real quotes. These personas allowed me to keep the user's perspective at the forefront throughout the design process, ensuring decisions were user-centered.
 
 3. **Journey Map**: I mapped out the entire end-to-end experience of the user, identifying pain points, moments of delight, and touchpoints where the user interacts with the app. This mapping process helped me pinpoint areas to streamline the user journey and remove friction.
 
