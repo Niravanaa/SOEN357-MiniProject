@@ -273,15 +273,15 @@ Wireframes helped me establish design consistency across different screens by st
 
 ## Prototype
 
-<img src="/assets/images/wireframes/wireframe-1.png" alt="Authentication Frames" title="Authentication Frames"/>
+<img src="/assets/images/mockups/mockup-1.png" alt="Authentication Frames" title="Authentication Frames"/>
 
-<img src="/assets/images/wireframes/wireframe-2.png" alt="Feature Introduction Frames" title="Feature Introduction Frames"/>
+<img src="/assets/images/mockups/mockup-2.png" alt="Feature Introduction Frames" title="Feature Introduction Frames"/>
 
 To maintain a balance between vibrancy and comfort, pastel colors were strategically introduced on subsequent pages of the app. While the dashboard uses strong, bold colors to capture attention and signify the user’s primary daily phases, pastel colors help create a warm, calming atmosphere on more detailed pages, like medication tracking and health reminders. This careful transition ensures that the user isn’t overwhelmed by too many vivid tones and fosters an emotional connection with the app. A grayscale palette would have created a monotonous experience, potentially causing emotional detachment from the app’s content.
 
 Symbols are crucial for helping users quickly identify important features or sections of the app. I displayed them in high-contrast black tones to ensure they stand out as intuitive visual guides. This approach makes navigation straightforward, and the black icons align with the clean, minimalist aesthetic, ensuring they are both functional and easily recognizable.
 
-<img src="/assets/images/wireframes/wireframe-3.png" alt="Dashboard, Medication, General Health and Reminder Management Frames" title="Dashboard, Medication, General Health and Reminder Management Frames"/>
+<img src="/assets/images/mockups/mockup-3.png" alt="Dashboard, Medication, General Health and Reminder Management Frames" title="Dashboard, Medication, General Health and Reminder Management Frames"/>
 
 In the wireframe stage, I used black strokes to create clear borders and distinguish different UI elements, establishing a sense of structure. However, as the design evolved, I removed these strokes to align with flat design principles.
 
@@ -293,7 +293,7 @@ Red was used to highlight critical action buttons within scheduling and appointm
 
 Green is employed to indicate successful actions or important components that help the user proceed confidently. For example, when a user confirms an appointment, a green indicator signals they can move on to the next step. Green’s association with positivity makes it ideal for elements representing forward movement or successful completion.
 
-<img src="/assets/images/wireframes/wireframe-4.png" alt="Appointment Scheduling and Management Frames" title="Appointment Scheduling and Management Frames"/>
+<img src="/assets/images/mockups/mockup-4.png" alt="Appointment Scheduling and Management Frames" title="Appointment Scheduling and Management Frames"/>
 
 As with previous frames, the strong black strokes around informational cards were replaced with a softer, more playful color to ease the contrast between the white cards and the gray background. This change creates a more pleasant and cohesive visual experience. The buttons are distinctly colored to clearly indicate their functions, making it easier for users to understand their purpose.
 
@@ -301,7 +301,7 @@ A right-angle bracket icon, resembling an arrow, invites the user to open a mess
 
 When the user opens a message thread with their healthcare provider, they see the most recent messages exchanged. This helps them contextualize the conversation, whether it's ongoing or has been previously concluded. At the bottom of the screen, separated by a defined line, there’s an input field for typing messages. Next to it, a “plus” symbol button allows the user to upload attachments, such as documents or images.
 
-<img src="/assets/images/wireframes/wireframe-5.png" alt="Doctor Communication Frames" title="Doctor Communication Frames"/>
+<img src="/assets/images/mockups/mockup-5.png" alt="Doctor Communication Frames" title="Doctor Communication Frames"/>
 
 The last four frames of the prototype showcase the menus accessible via buttons in the header and main menu. The left button in the header, represented by a mail icon, opens the notifications view. Notifications are organized by date and severity. The top-priority message, marked as "important," is displayed first, showing the full contents. Below that, notifications are listed chronologically, each accompanied by an icon and relevant details. Users can swipe to delete individual notifications or tap the “Clear All” button, highlighted in soft red, to dismiss all notifications.
 
@@ -311,7 +311,7 @@ The personal profile frame shows the user’s primary and health-related informa
 
 The family profile management frame provides an overview of the user’s family members, allowing them to access each member’s profile or add/remove family members. Certain members are marked as "emergency contacts," so they can be reached if the app detects any medically concerning metrics within the user’s profile.
 
-<img src="/assets/images/wireframes/wireframe-6.png" alt="Notifications, Main Menu, Personal/Family Profile Management Frames" title="Notifications, Main Menu, Personal/Family Profile Management Frames"/>
+<img src="/assets/images/mockups/mockup-6.png" alt="Notifications, Main Menu, Personal/Family Profile Management Frames" title="Notifications, Main Menu, Personal/Family Profile Management Frames"/>
 
 # Usability Testing
 
