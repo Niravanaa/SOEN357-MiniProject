@@ -8,6 +8,7 @@ header:
   show_overlay_excerpt: false
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: true
 
 categories:
   - Blog
@@ -207,12 +208,12 @@ Let’s meet the users who will guide this journey:
 
 From an emotional standpoint, I must consider users' thoughts, frustrations, motivations, and overall satisfaction at each stage. This helps me identify points of excitement, confusion, or frustration that could impact their experience.
 
-<img src="/assets/images/journey-maps/Think-Does-Feel-Map.png" alt="Think-Does-Feel-Map" title="Think-Does-Feel-Map" />
+<img src="/assets/images/journey-maps/Think-Does-Feel-Map.png" alt="Think-Does-Feel Journey Map" title="Think-Does-Feel Journey Map" />
 
 From a technical perspective, I analyze the actions users take, the touchpoints they interact with, and potential obstacles they may face. This allows me to optimize workflows, improve usability, and remove friction points in the app.  
 The journey is broken into seven stages, from onboarding to the final feedback loop, with a focus on the most common touchpoints, emotions, and pain points encountered at each stage.
 
-<img src="/assets/images/journey-maps/Emotion-Journey-Map.png" alt="Emotion-Journey-Map" title="Emotion-Journey-Map" />
+<img src="/assets/images/journey-maps/Emotion-Journey-Map.png" alt="Emotional Journey Map" title="Emotional Journey Map" />
 
 Initially, users feel a sense of neutrality (3) as they open the app—a common starting point when using a new tool. They may be eager to see how the app works, but there is also uncertainty regarding whether it will meet their needs. This stage is neither particularly positive nor negative, as users are still exploring and adjusting to the new interface.
 
